@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(41, 41, 41);
+    margin: 0;
+    background: url("img/pattern.png");
+}
+.card {
+    width: 500px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 5px 50px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card-photo {
+    display: block;
+    width: 400x;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-tittle {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(121, 110, 73);
+}
+.card-text {
+    font-size: 15px;
+}
+.card-subtittle {
+    font-size: 25px;
+    color: rgb(121, 110, 73);
+}
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 15px;
+}
